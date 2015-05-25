@@ -1,6 +1,6 @@
 ﻿;$(function(){
 	/*	mailTips v0.1
-	**	ah.yiru@gmail.com
+	**	ah.yiru@gmail.com 
 	**	https://github.com/ahyiru/mailTips
 	*/
 	var mail=['@qq.com','@gmail.com','@126.com','@163.com','@hotmail.com','@yahoo.com','@live.com','@sohu.com','@sina.com'],
